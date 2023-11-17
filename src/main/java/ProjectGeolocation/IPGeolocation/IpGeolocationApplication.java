@@ -22,7 +22,7 @@ public class IpGeolocationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IpGeolocationApplication.class, args);
 
-		String api_key = "7024783793bc4863bb64274dd602c482";
+	String api_key = "7024783793bc4863bb64274dd602c482";
         String inputFileName = "ips";
         String outputFileName = "resultado";
 
