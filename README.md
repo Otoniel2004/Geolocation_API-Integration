@@ -6,3 +6,7 @@
   <li>Executar o programa;</li>
   <li>Será gerado um aquivo de texto "resultado", na qual contém uma lista dos IPs enviados com suas respectivas cidades.</li>
 </ol>
+<h3>Opções Futuras:</h3>
+<ol>
+  <li>Paises e Estado dos respectivos IP.</li>
+</ol>
